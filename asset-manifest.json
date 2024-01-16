@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shri_bhagawati/static/css/main.3d15f79f.css",
+    "main.js": "/shri_bhagawati/static/js/main.820a379f.js",
+    "static/js/787.5f6f03a3.chunk.js": "/shri_bhagawati/static/js/787.5f6f03a3.chunk.js",
+    "index.html": "/shri_bhagawati/index.html",
+    "main.3d15f79f.css.map": "/shri_bhagawati/static/css/main.3d15f79f.css.map",
+    "main.820a379f.js.map": "/shri_bhagawati/static/js/main.820a379f.js.map",
+    "787.5f6f03a3.chunk.js.map": "/shri_bhagawati/static/js/787.5f6f03a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d15f79f.css",
+    "static/js/main.820a379f.js"
+  ]
+}
