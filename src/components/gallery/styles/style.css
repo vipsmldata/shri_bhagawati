@@ -1,0 +1,86 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Fonts Family */
+/* font-family: 'Poppins', sans-serif; */
+
+/* variables */
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+/* tour/travel */
+.tours-cards h3 {
+  font-size: 2rem;
+}
+.tours-cards {
+  display: flex;
+  gap: 3rem;
+}
+
+.tours-card {
+  display: flex;
+  gap: 1.5rem;
+  flex: 1;
+}
+
+.tours-card-content {
+  font-family: 'Poppins', sans-serif;
+  line-height: 2rem;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}
+
+.tours-card-content-icons {
+  display: flex;
+  gap: 3rem;
+
+}
+.tours-card-content-icons h6 {
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: flex-end;
+  gap: 0.6rem;
+  font-size: 12px;
+  color: #878787;
+}
+.tours-card-contents-text p {
+  margin-top: 1.5rem;
+}
+
+.tours-card img {
+  border-radius: 20px;
+  resize: both;
+}
+
+.all-images-container{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	margin-left: -99px;
+	margin-right: -99px;
+}
+.all-images-image {
+	width: calc(100% / 2);
+	box-sizing: border-box;
+	padding: 10px;
+  padding-top: 40px;
+  
+
+}
+
+@media (max-width: 400px) {
+	.all-images-image {
+		width: calc(100% / 2);
+	}
+}
